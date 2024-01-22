@@ -25,4 +25,5 @@ https://drive.google.com/file/d/1Rrr69MfMFUv_i3zxyu89FZ2AIL2DWl-n/view?usp=drive
 * Nandan Srikrishna
 
 # Example Code
+The process of producing our results with the kidney datasets can be seen within this Jupyter Notebook: 
 https://github.com/LenaPerry/MetabolonR_shiny_app/blob/main/MetabolonR_Pipeline.ipynb 
