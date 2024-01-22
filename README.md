@@ -1,5 +1,5 @@
 # Metabolon R shiny app is a shiny app for disease diagnosis and treatment
-[embed](https://github.com/LenaPerry/MetabolonR_shiny_app/files/14007354/MetabolonR_shiny_app.Flow.Chart.pdf)[embed]
+<object data="[../assets/path/to/document.pdf](https://github.com/LenaPerry/MetabolonR_shiny_app/files/14007386/MetabolonR_shiny_app.Flow.Chart.pdf)" width="1000" height="1000" type='application/pdf'></object>
 
 # Built With
 * Fadhl Alakwaa https://github.com/FADHLyemen 
