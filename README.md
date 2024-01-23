@@ -22,8 +22,8 @@ https://drive.google.com/file/d/1Rrr69MfMFUv_i3zxyu89FZ2AIL2DWl-n/view?usp=drive
 # Built With
 * Fadhl Alakwaa https://github.com/FADHLyemen 
 * Lena Perry https://github.com/LenaPerry
-* Zyad Shehadeh
-* Nandan Srikrishna
+* Zyad Shehadeh https://github.com/zyads
+* Nandan Srikrishna https://github.com/nandansrikrishna
 
 # Example Code
 The process of producing our results with the kidney datasets can be seen within this Jupyter Notebook: 
