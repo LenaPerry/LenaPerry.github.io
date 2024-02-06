@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1Qy4AMZd_QVQSs0zXeuk1C-eAUnhdHfqD/view?usp=drive
 kidney dataset normalized data:
 https://drive.google.com/file/d/1hrXwgFkBqAnmIBQ4tUqVp3yb9EyewPJT/view?usp=drive_link
 
-kidney dataset corrected data:
+kidney dataset batch corrected data:
 https://drive.google.com/file/d/1Rrr69MfMFUv_i3zxyu89FZ2AIL2DWl-n/view?usp=drive_link
 
 
