@@ -1,6 +1,7 @@
 # Metabolon R Shiny app is a Shiny app for disease diagnosis and treatment
 In this notebook we will generate the figures and results in our paper entitled "Advancing Metabolomics Analysis: Introducing a Shiny App for Disease Diagnosis and Treatment." We'll want to first collect the necessary files and then begin performing common metabolomics data analyses. We will implement the below pipeline:
-![Screenshot 2024-03-17 143407](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/e6a9a455-59e9-4780-95a7-7dabad59140f)
+![Screenshot 2024-03-17 143407](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/928d5394-c6bf-402f-97e5-b51b0f1bcf5f)
+
 
 kidney dataset metabolomics data:
 https://drive.google.com/file/d/1LuyDFsi1zrg3Jb-qnzuyo6v6n4v_uUy9/view?usp=drive_link 
