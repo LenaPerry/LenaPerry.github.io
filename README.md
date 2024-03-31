@@ -3,7 +3,7 @@ In this notebook we will generate the figures and results in our paper entitled 
 ![Screenshot 2024-03-17 143407](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/928d5394-c6bf-402f-97e5-b51b0f1bcf5f)
 
 
-https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/47e4e3be-f31b-454a-b83a-a75841b9e366
+![MetabolonR Example - Trim](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/f88a9a0d-afce-43d8-9c59-d047a15f9204)
 
 
 
