@@ -6,6 +6,8 @@ In this notebook we will generate the figures and results in our paper entitled 
 ![MetabolonR Example - Trim](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/f88a9a0d-afce-43d8-9c59-d047a15f9204)
 
 
+![video2537716003](https://github.com/LenaPerry/MetabolonR_shiny_app/assets/113261545/23c06310-61eb-478a-bcdd-5b647744ca45)
+
 
 
 Link to the app: https://nandans.shinyapps.io/metabolonr/ 
